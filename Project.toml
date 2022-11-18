@@ -2,3 +2,7 @@ name = "ParticleGrowthRates"
 uuid = "15dbd98d-f2ff-412d-98f7-6daecafb7826"
 authors = ["Endre Asheim Hennum <[endre.hennum@hydro.com]>"]
 version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+ThermAl = "0348d56a-5c0d-48ff-b0f2-137f3254b8e1"
