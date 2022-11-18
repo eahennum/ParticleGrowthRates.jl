@@ -1,0 +1,4 @@
+name = "ParticleGrowthRates"
+uuid = "15dbd98d-f2ff-412d-98f7-6daecafb7826"
+authors = ["Endre Asheim Hennum <[endre.hennum@hydro.com]>"]
+version = "0.1.0"
